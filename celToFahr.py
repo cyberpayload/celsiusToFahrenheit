@@ -1,4 +1,4 @@
-########## CONVERT CELSIUS TO FAHRENHEIT ##########
+########## CONVERT CELSIUS TO FAHRENHEIT and Vice Versa ##########
 
 # create variables for celsius equation
 
